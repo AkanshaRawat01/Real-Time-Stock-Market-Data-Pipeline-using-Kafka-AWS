@@ -2,7 +2,7 @@
 
 🏗️ Architecture
 
-Screenshot 2026-05-05 074453.png
+project_architecture.png
 
 
 ## 🚀 Project Overview
