@@ -2,7 +2,7 @@
 
 🏗️ Architecture
 
-
+Screenshot 2026-05-05 074453.png
 
 
 ## 🚀 Project Overview
@@ -41,13 +41,11 @@ This project simulates real-time stock market data streaming using Apache Kafka 
 4. Check S3 bucket for output
 5. Query data using Athena
 
-## 🔐 Security Note
 
-AWS credentials and PEM files are excluded using `.gitignore`
 
 ## 🚀 Future Improvements
 
 * Add Spark streaming
 * Build dashboard (Power BI / Tableau)
-* Implement data partitioning in S3
+
 
