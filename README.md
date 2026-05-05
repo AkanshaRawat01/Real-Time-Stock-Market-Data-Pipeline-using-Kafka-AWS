@@ -1,6 +1,6 @@
 # 📈 Real-Time Stock Market Data Pipeline using Kafka & AWS
 
-🏗️ Architecture
+# 🏗️ Architecture
 
 project_architecture.png
 
@@ -41,7 +41,9 @@ This project simulates real-time stock market data streaming using Apache Kafka 
 4. Check S3 bucket for output
 5. Query data using Athena
 
-
+# My S3 and Athena screenshots 
+S3_bucket.png
+athena.png
 
 ## 🚀 Future Improvements
 
