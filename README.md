@@ -42,8 +42,8 @@ This project simulates real-time stock market data streaming using Apache Kafka 
 5. Query data using Athena
 
 # My S3 and Athena screenshots 
-S3_bucket.png
-athena.png
+1. S3_bucket.png
+2. athena.png
 
 ## 🚀 Future Improvements
 
