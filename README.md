@@ -1,6 +1,6 @@
-# 📈 Real-Time Stock Market Data Pipeline using Kafka & AWS
+#  Real-Time Stock Market Data Pipeline using Kafka & AWS
 
-# 🏗️ Architecture
+#  Architecture
 
 project_architecture.png
 
